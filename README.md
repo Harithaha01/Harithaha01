@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Harithaha01/Harithaha01/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Lakkakula Haritha</h1>
 <h3 align="center">Computer Science Student | Exploring AI & Technology 🤖</h3>
 
